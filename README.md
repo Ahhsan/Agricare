@@ -31,6 +31,14 @@ Agricare is a database management system designed to streamline agricultural bus
 4. Configure the database connection in the backend.
 5. Run the application.
 
+## Screenshots
+![Screenshot 2025-01-31 234149](https://github.com/user-attachments/assets/1adc0058-9311-4a15-94a5-6efb26288df3)
+![Screenshot 2025-01-31 234208](https://github.com/user-attachments/assets/e4157c8b-ac25-45bc-87a6-ade682b3cc2a)
+![Screenshot 2025-01-31 234220](https://github.com/user-attachments/assets/91121793-3a27-46bb-b2cc-221ba0021a1a)
+![Screenshot 2025-01-31 234243](https://github.com/user-attachments/assets/c65d1e83-9d92-44a9-b81a-449a4080b8d5)
+![Screenshot 2025-01-31 234303](https://github.com/user-attachments/assets/e902e11b-8629-4610-98c0-290de30aec3c)
+![Screenshot 2025-01-31 234324](https://github.com/user-attachments/assets/2a537eef-4ed1-4e8e-b7ea-ddfcd4fce177)
+
 ## Usage
 - Register and log in as an admin.
 - Add and manage farmers and products.
@@ -46,6 +54,5 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## License
 This project is licensed under the MIT License.
-
 
 
