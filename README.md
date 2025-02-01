@@ -27,7 +27,7 @@ Agricare is a database management system designed to streamline agricultural bus
    ```
 3. Import the database schema:
    - Open your database management tool (MySQL Workbench, pgAdmin, etc.).
-   - Import the provided SQL dump file.
+   - Import the provided SQL  dump file. 
 4. Configure the database connection in the backend.
 5. Run the application.
 
