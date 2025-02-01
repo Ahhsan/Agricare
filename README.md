@@ -14,7 +14,7 @@ Agricare is a database management system designed to streamline agricultural bus
 - **Database**: MySQL 
 - **Backend**: PHP / Node.js
 - **Frontend**: HTML, CSS, JavaScript
-- **Other Tools**: SQL queries, ER diagrams, and database normalization techniques
+- **Other Tools**: SQL queries, ER diagrams, and database normalization techniques.
 
 ## Installation
 1. Clone the repository:
