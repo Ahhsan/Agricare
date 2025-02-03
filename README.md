@@ -1,4 +1,4 @@
-# Agricare 
+# AGRICARE
 
 ## Introduction
 Agricare is a database management system designed to streamline agricultural business operations. It provides functionalities to manage farmers, products, inventory, sales, and other key aspects of an agricultural business efficiently.
